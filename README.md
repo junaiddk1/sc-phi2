@@ -13,7 +13,7 @@ Pleas follow the steps listed at https://github.com/wuhuikai/MSC:
    
 
 
-#### Cite the paper
+### Cite the paper
 [SC-Phi2](https://www.mdpi.com/2673-2688/5/4/115)
 
 ```bibtex
